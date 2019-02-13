@@ -1,0 +1,3 @@
+Milk 55 1
+Butter 25 10
+Sweet Corn 25 10
